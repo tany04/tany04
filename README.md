@@ -25,7 +25,7 @@ For more details, feel free to check out the full Team Project repository with i
 
 ## 🎯 My Interests 
 - Medical Informatics & Data Privacy
-- Software Engineering & Clean Code
+- Software Engineering
 - Healthcare IT Solutions
 
 ## 🛠 Tech Stack & Tools
