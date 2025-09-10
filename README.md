@@ -4,7 +4,9 @@ I am currently a Bachelor's student in **Medical Informatics** at the Eberhard-K
 Currently, I am exploring **software development, data analysis**, and **applications in healthcare**, while working on personal projects to strengthen my skills.
 
 ## My Current Work 
-Projects I am currently planning/working on:
+Projects I am currently planning/working on:  
+- **Project 1: Blockchain Document Verifier**
+  Tool that takes an uploaded pdf document and creates a cryptonic hash and stores it on a lightweight blockchain. Anyone can later verify authenticity by comparing hashes.
 
 
 ## My Previous Work
