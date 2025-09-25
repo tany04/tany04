@@ -7,6 +7,8 @@ Currently, I am exploring **software development, data analysis**, and **applica
 Projects I am currently planning/working on:  
 - **Project 1: Blockchain Document Verifier**
   Tool that takes an uploaded pdf document and creates a cryptonic hash and stores it on a lightweight blockchain. Anyone can later verify authenticity by comparing hashes.
+- **Project 2: Café Finder Web App**
+  A JavaScript-based tool that integrates the Google Maps and Places APIs to help users locate nearby cafés. The app retrieves geolocation data, displays results with interactive map markers, and offers an intuitive interface for exploring café options in any area.
 
 
 ## My Previous Work
